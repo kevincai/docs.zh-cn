@@ -2,7 +2,7 @@
 
 ## 功能
 
-返回bitmap中置位的个数。
+返回 bitmap 中置位的个数。
 
 ## 语法
 
@@ -12,7 +12,7 @@ INT BITMAP_COUNT(any_bitmap)
 
 ## 返回值说明
 
-返回值的数据类型为INT。
+返回值的数据类型为 INT。
 
 ## 示例
 
